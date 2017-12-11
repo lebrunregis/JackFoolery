@@ -12,9 +12,9 @@ public class JackFoolery {
      */
     public static void main(String[] args) {
 
-        JDialogLogin dial = new JDialogLogin(null, true);
-        dial.setLocationRelativeTo(null);
-        dial.setVisible(true);
+      //  JDialogLogin dial = new JDialogLogin(null, true);
+      //  dial.setLocationRelativeTo(null);
+      //  dial.setVisible(true);
 
         JeuBean obs = new JeuBean();
 
